@@ -1,0 +1,16 @@
+{
+  "name": "ekhanyi",
+  "version": "1.0.0",
+  "description": "Just a simple web for ekhanyi company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Simbarashe Billionaire Chinaka",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  }
+}
